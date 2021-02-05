@@ -1,0 +1,32 @@
+AUS - IPS - BASES DE DATOS
+2008-05-21   EMAIL ENVIADO a fernandocarrillo@hotmail.com 
+Hola Fernando:
+  
+   Antes que nada te quería comentar que he podido hacer funcionar una versión Gratuita de Oracle
+   que se llama:
+
+         "Oracle Database 10g Release 2 (10.2.0.1) Express Edition for Linux x86"
+
+   en el sistema operativo:    SUSE LINUX 10.1 (i586)
+
+   Te envío un archivo adjunto que contiene lo que pude hacer hasta estas horas.
+  
+   Vas a encontrar:
+    - un PDF que tiene el modelo de los datos para el sistema de alumnado
+    - un archivo de texto plano que tiene el script sql
+
+   Lo he ejecutado pero no me genera bién todas las tablas, tengo que mirarlo un poco mas, testearlo y depurarlo.
+  
+   Me hubiese gustado haberle podido dedicar mas tiempo, pero bueno, es mejor presentar algo antes que nada.
+
+  Aprovecho el mail para notificarte que la semana pasada y estos días no he podido ir al Instituto Politécnico porque
+junto a mis compañeros de trabajo, estamos haciendo todos los requerimientos para lograr la certificación de Normas de Calidad ISO 9001:2000
+algo que realmente es muy interesante pero que lleva su tiempo y esfuerzo...
+ 
+   Te envío saludos, Fernando, atentamente desde mi querida Ciudad de Casilda...
+
+
+Ezequiel Hernán Villanueva
+
+Área de Soporte Técnico
+Master Solutions SRL Consultora Informática
